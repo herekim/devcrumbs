@@ -1,2 +1,3 @@
 # breadcrumbs
-Development knowledge like bread crumb 🍞
+
+Development knowledge breadcrumbs 🍞
