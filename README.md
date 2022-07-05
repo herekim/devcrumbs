@@ -1,3 +1,3 @@
 # breadcrumbs
 
-Development knowledge breadcrumbs 🍞
+의도적으로 '대충' 쓰고 있습니다. 꾸준히 오래하기 위함입니다.
