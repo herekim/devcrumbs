@@ -22,7 +22,7 @@ const handleDeleteSlot = (id: number) => {
 # 해결 방법
 
 - mutate -> mutateAsync 로 interface 변경해서 Promise를 리턴시킴
-- 해당 함수에 async await 걸어서 비동기 처리
+- 해당 함수와 메소드에 async await 걸어서 비동기 처리
 - useQuery의 refetch interface 를 사용해 refetch
 
 ```js
@@ -42,13 +42,16 @@ const handleDeleteSlot = async (id: number) => {
 };
 ```
 
-# 부스러기 지식
+# 빵 부스러기
 
 - mutateAsync interface (공식문서 참조)
+
   Similar to mutate but returns a promise which can be awaited.
+
   ```
   mutateAsync: (variables: TVariables, { onSuccess, onSettled, onError }) => Promise<TData>
   ```
+
 - refetch interface (소스 코드 참조)
   ```ts
   export interface QueryObserverBaseResult<TData = unknown, TError = unknown> {
