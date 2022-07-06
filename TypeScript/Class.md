@@ -2,7 +2,7 @@
 
 ## 접근 제한자
 
-  <img src="../public/images/접근제한자.png"/>
+![접근제한자 표](/public/images/접근제한자.png)
 
 1. public <br/>
 2. pretected <br/>
