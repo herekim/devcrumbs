@@ -198,4 +198,4 @@ const redirectIf = (compare, to) => {
 
 ### 참고자료
 
-[Link](https://www.youtube.com/watch?v=r7M9B_dEbCI)
+[그래서 DECLARATIVE가 뭔데? - 원지혁](https://www.youtube.com/watch?v=r7M9B_dEbCI)
