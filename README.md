@@ -1,5 +1,6 @@
 | 날짜       | 내용                                                                                               |
 | ---------- | -------------------------------------------------------------------------------------------------- |
+|2022.10.25|[브라우저 호환성과 빌드환경](https://github.com/herekim/devcrumbs/blob/main/2022/10/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%ED%98%B8%ED%99%98%EC%84%B1%EA%B3%BC%20%EB%B9%8C%EB%93%9C%20%ED%99%98%EA%B2%BD.md)|
 |2022.10.18|[SSR 밑단부터 구현한다면?](https://bush-quarter-3e6.notion.site/SSR-from-Scratch-6d0cb8dde9d54e889179fb7186fffb3f)|
 |2022.10.07|[그래프 알고리즘의 개념](https://bush-quarter-3e6.notion.site/Graph-8b9394f5300c4dec8f0536e02c80fa79), [제너레이터의 이해](https://bush-quarter-3e6.notion.site/Generator-1db07275756d431aba476094976e10b2)|
 |2022.10.03| [What is Web component?](https://bush-quarter-3e6.notion.site/What-is-Web-component-1bc45c6967074e26aa15eab55078cae8)|
