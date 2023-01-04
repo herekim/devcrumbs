@@ -1,5 +1,7 @@
 | 날짜       | 내용                                                                                                                                                                                                                                                   |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|2023.01.04|[JSON, XML](https://bush-quarter-3e6.notion.site/JSON-XML-fbd7fd42a46c4696b0b587865ed14c38)|
+|2023.01.03|[그래프 알고리즘](https://bush-quarter-3e6.notion.site/85ed1971e16f4e36b2495ed06205f3c1), [이진트리 알고리즘](https://bush-quarter-3e6.notion.site/15994cdf8e6f4b748f0e223ef0a8e6ed), [힙 알고리즘](https://bush-quarter-3e6.notion.site/6b2b0775d3214a76b48075e30087cd43)|
 |2022.12.15|[Context API로 모달 관리하기](https://bush-quarter-3e6.notion.site/Context-API-4948a713c7db446abdc7929c8a24be03)|
 |2022.12.14|[React Query, 왜 사용하는가?](https://bush-quarter-3e6.notion.site/React-Query-95f7abb5032848b0bbcea1d36e3eb807)|
 | 2022.12.08 | [Keyboard focus의 웹 접근성](https://bush-quarter-3e6.notion.site/Keyboard-focus-78ed316b285b46e187614ec9c868bd60)                                                                                                                                     |
