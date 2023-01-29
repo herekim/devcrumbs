@@ -13,6 +13,7 @@
 | 2022.12.07 | [비디오와 오디오의 웹 접근성](https://bush-quarter-3e6.notion.site/331c4988490d40c8a23911b229c31b2d)                                                                                                                                                   |
 | 2022.12.06 | [Compound Component](https://bush-quarter-3e6.notion.site/Compound-Component-330324a24da8402fa1969a576014b4e2)                                                                                                                                                            |
 | 2022.12.05 | [알고리즘 문제해결 패턴](https://bush-quarter-3e6.notion.site/04fb588f6b72476ca162f75764e9cd86)                                                                                                                                                        |
+|2022.11.30|[13th’ Tech Interview Feedback](https://bush-quarter-3e6.notion.site/13th-Tech-Interview-Feedback-4b789ee60ca645edb9ef5fe475ad0bb3)|
 |2022.11.15|[11th Tech Interview Feedback](https://bush-quarter-3e6.notion.site/11th-Tech-Interview-Feedback-0a1b54ed98584cefba4583b476645fff)|
 |2022.11.09|[10th Tech Interview Feedback](https://bush-quarter-3e6.notion.site/10th-Tech-Interview-Feedback-f481de5667a6442483734aeaef988359)|
 | 2022.10.25 | [브라우저 호환성과 빌드환경](https://bush-quarter-3e6.notion.site/06ef8f697bf3466bb8a49a8f049bfc4d)                                                                                                                                                    |
