@@ -7,6 +7,7 @@
 |2023.01.06|[API란 무엇인가?](https://bush-quarter-3e6.notion.site/API-53556a2035cd41a19f4494b5c77606e5), [트라이(Trie) 자료구조](https://bush-quarter-3e6.notion.site/Trie-e62794843b684e4c94ec1678d7127ac6)|
 |2023.01.04|[JSON, XML](https://bush-quarter-3e6.notion.site/JSON-XML-fbd7fd42a46c4696b0b587865ed14c38)|
 |2023.01.03|[그래프 알고리즘](https://bush-quarter-3e6.notion.site/85ed1971e16f4e36b2495ed06205f3c1), [이진트리 알고리즘](https://bush-quarter-3e6.notion.site/15994cdf8e6f4b748f0e223ef0a8e6ed), [힙 알고리즘](https://bush-quarter-3e6.notion.site/6b2b0775d3214a76b48075e30087cd43)|
+|2022.12.24|[16th’ Tech Interview Feedback](https://bush-quarter-3e6.notion.site/16th-Tech-Interview-Feedback-2044f76a789f44358d621b7a84388aff)|
 |2022.12.15|[Context API로 모달 관리하기](https://bush-quarter-3e6.notion.site/Context-API-4948a713c7db446abdc7929c8a24be03)|
 |2022.12.14|[React Query, 왜 사용하는가?](https://bush-quarter-3e6.notion.site/React-Query-95f7abb5032848b0bbcea1d36e3eb807)|
 |2022.12.13|[15th Tech Interview Feedback](https://bush-quarter-3e6.notion.site/15th-Tech-Interview-Feedback-d40c76d8fa6b491789e0f2182b45bff5)|
