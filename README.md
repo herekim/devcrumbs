@@ -1,6 +1,6 @@
 | 날짜       | 내용                                                                                                                                                                                                                                                   |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|2023.02.09|[](https://github.com/herekim/algorithm/tree/main/practice/%EC%86%8C%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0)|
+|2023.02.09|[소수찾기 알고리즘](https://github.com/herekim/algorithm/tree/main/practice/%EC%86%8C%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0)|
 |2023.01.15|[팩토리 패턴 Factory Pattern](https://bush-quarter-3e6.notion.site/Factory-Pattern-3b6585e776cf42bcad8bf909ee11e31b), [정렬 알고리즘](https://bush-quarter-3e6.notion.site/eafec01e7560457282098e0fc2ee8bd1)|
 |2023.01.14|[이진탐색과 파라메트릭 서치](https://bush-quarter-3e6.notion.site/0d5b34d7e7394dac855ff065615b19e4), [싱글톤 패턴](https://bush-quarter-3e6.notion.site/fc4e92575d634dc8995e6920e7da00f2)|
 |2023.01.12|[객체지향의 사실과 오해](https://bush-quarter-3e6.notion.site/ba65bfda242f4beb86c87f71006d2bad)|
