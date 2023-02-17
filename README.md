@@ -1,5 +1,6 @@
 | 날짜       | 내용                                                                                                                                                                                                                                                   |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|2023.02.15|[그래서 렌더링이 뭐냐고요 #1](https://bush-quarter-3e6.notion.site/1-ebfb7892469b4f16b2fb4bc9a04e67e2)|
 |2023.02.10|[네트워크의 기초](https://bush-quarter-3e6.notion.site/fda78faf864543249a2de7ed08770597)|
 |2023.02.09|[소수찾기 알고리즘](https://github.com/herekim/algorithm/tree/main/practice/%EC%86%8C%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0)|
 |2023.01.15|[팩토리 패턴 Factory Pattern](https://bush-quarter-3e6.notion.site/Factory-Pattern-3b6585e776cf42bcad8bf909ee11e31b), [정렬 알고리즘](https://bush-quarter-3e6.notion.site/eafec01e7560457282098e0fc2ee8bd1)|
