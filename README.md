@@ -7,6 +7,7 @@
 |2023.01.14|[이진탐색과 파라메트릭 서치](https://bush-quarter-3e6.notion.site/0d5b34d7e7394dac855ff065615b19e4), [싱글톤 패턴](https://bush-quarter-3e6.notion.site/fc4e92575d634dc8995e6920e7da00f2)|
 |2023.01.12|[객체지향의 사실과 오해](https://bush-quarter-3e6.notion.site/ba65bfda242f4beb86c87f71006d2bad)|
 |2023.01.11|[for..in VS for..of](https://bush-quarter-3e6.notion.site/for-in-vs-for-of-40a03480948047ceb09e04d2cadd9505), [도커와 컨테이너](https://bush-quarter-3e6.notion.site/e4a84f7531d146c9ad58a8025efbe1c9), [정적 타입시스템의 필요성](https://bush-quarter-3e6.notion.site/18e99df50a774a64a04e5c931ff7067c)|
+|2023.01.07|[18th Tech Interview Feedback](https://bush-quarter-3e6.notion.site/18th-Tech-Interview-Feedback-5cef8df3559844b4b6f4561ac028f445)|
 |2023.01.06|[API란 무엇인가?](https://bush-quarter-3e6.notion.site/API-53556a2035cd41a19f4494b5c77606e5), [트라이(Trie) 자료구조](https://bush-quarter-3e6.notion.site/Trie-e62794843b684e4c94ec1678d7127ac6)|
 |2023.01.04|[JSON, XML](https://bush-quarter-3e6.notion.site/JSON-XML-fbd7fd42a46c4696b0b587865ed14c38)|
 |2023.01.03|[그래프 알고리즘](https://bush-quarter-3e6.notion.site/85ed1971e16f4e36b2495ed06205f3c1), [이진트리 알고리즘](https://bush-quarter-3e6.notion.site/15994cdf8e6f4b748f0e223ef0a8e6ed), [힙 알고리즘](https://bush-quarter-3e6.notion.site/6b2b0775d3214a76b48075e30087cd43), [17th Tech Interview Feedback](https://bush-quarter-3e6.notion.site/17th-Tech-Interview-Feedback-a4272e7ab1884b8396452c8884220b96)|
