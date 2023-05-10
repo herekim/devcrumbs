@@ -2,6 +2,7 @@
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |2023.03.21|[데이터 스키마 유효성 검사](https://bush-quarter-3e6.notion.site/Data-Schema-Validation-8ea7c89026d146078c6032053adc5051)|
 |2023.03.08|[JavaScript getter](https://bush-quarter-3e6.notion.site/JavaScript-getter-74e9a6a31ef24c11a9feac3571737f03)|
+|2023.03.07|[이 값은 이제 제껍니다](https://alwayshere.vercel.app/blog/20230326)|
 |2023.03.06|[다익스트라 알고리즘](https://bush-quarter-3e6.notion.site/Dijkstra-917c97d15af7479d826abfa7d522a680)|
 |2023.02.25|[재사용 가능한 컴포넌트](https://bush-quarter-3e6.notion.site/3d115a51b3a94a1789c11453d3d3b642)|
 |2023.02.15|[그래서 렌더링이 뭐냐고요 #1](https://bush-quarter-3e6.notion.site/1-ebfb7892469b4f16b2fb4bc9a04e67e2)|
