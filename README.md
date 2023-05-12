@@ -1,5 +1,6 @@
 | 날짜       | 내용                                                                                                                                                                                                                                                   |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|2023.05.12|[소수 판별과 에라토스테네스의 체](https://bush-quarter-3e6.notion.site/760bdf4243e14124b624a4970782d76e), [Array() VS Array.from()](https://bush-quarter-3e6.notion.site/Array-VS-Array-from-855f614ccb804f13850707ec216cf4b8), [자주 쓰이는 JavaScript Math 메서드 비교](https://bush-quarter-3e6.notion.site/JavaScript-Math-2a0e6fbeb1a54a90a7f2475b10f760e7)|
 |2023.03.21|[데이터 스키마 유효성 검사](https://bush-quarter-3e6.notion.site/Data-Schema-Validation-8ea7c89026d146078c6032053adc5051)|
 |2023.03.08|[JavaScript getter](https://bush-quarter-3e6.notion.site/JavaScript-getter-74e9a6a31ef24c11a9feac3571737f03)|
 |2023.03.07|[이 값은 이제 제껍니다](https://alwayshere.vercel.app/blog/20230326)|
