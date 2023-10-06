@@ -10,7 +10,7 @@
 |2023.03.06|[다익스트라 알고리즘](https://bush-quarter-3e6.notion.site/Dijkstra-917c97d15af7479d826abfa7d522a680)|
 |2023.02.25|[재사용 가능한 컴포넌트](https://bush-quarter-3e6.notion.site/3d115a51b3a94a1789c11453d3d3b642)|
 |2023.02.15|[그래서 렌더링이 뭐냐고요 #1](https://bush-quarter-3e6.notion.site/1-ebfb7892469b4f16b2fb4bc9a04e67e2)|
-|2023.02.10|[네트워크의 기초](https://bush-quarter-3e6.notion.site/fda78faf864543249a2de7ed08770597) |
+|2023.02.10|[네트워크의 기초](https://bush-quarter-3e6.notion.site/fda78faf864543249a2de7ed08770597)|
 |2023.02.09|[소수찾기 알고리즘](https://github.com/herekim/algorithm/tree/main/practice/%EC%86%8C%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0)|
 |2023.01.15|[팩토리 패턴 Factory Pattern](https://bush-quarter-3e6.notion.site/Factory-Pattern-3b6585e776cf42bcad8bf909ee11e31b), [정렬 알고리즘](https://bush-quarter-3e6.notion.site/eafec01e7560457282098e0fc2ee8bd1)|
 |2023.01.14|[이진탐색과 파라메트릭 서치](https://bush-quarter-3e6.notion.site/0d5b34d7e7394dac855ff065615b19e4), [싱글톤 패턴](https://bush-quarter-3e6.notion.site/fc4e92575d634dc8995e6920e7da00f2)|
